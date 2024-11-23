@@ -7,7 +7,7 @@ document.getElementById('sim').addEventListener('click', function() {
 
 document.getElementById('nao').addEventListener('click', function() {
     document.getElementById('mensagem').innerHTML = `
-        <p>Vai tomar água, linda, se não vai se ver comigo! 😡</p>
+        <p>Vai comer, linda, se não vai se ver comigo! 😡</p>
         <img src="./imgs/sticket.png" alt="Figurinha Brava" />
     `;
 });
