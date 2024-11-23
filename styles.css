@@ -45,7 +45,7 @@ button {
     border: none;
     border-radius: 8px;
     background-color: #fde910;
-    color: white;
+    color: black;
     transition: background-color 0.3s;
 }
 
