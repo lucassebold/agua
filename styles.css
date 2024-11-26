@@ -65,6 +65,9 @@ button:hover {
     margin-top: 10px;
 }
 
+#status-comida{
+    display: flex;
+}
 
 @media (max-width: 600px) {
     .foto {
